@@ -1,0 +1,7 @@
+# Ignore real DB password files
+console-maven/src/main/resources/db.properties
+web-maven/src/main/resources/db.properties
+
+# Ignore build folders
+target/
+.DS_Store
